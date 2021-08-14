@@ -1,0 +1,7 @@
+{
+    "name": "azimsabbir/masteringphp",
+    "description": "my test package",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
