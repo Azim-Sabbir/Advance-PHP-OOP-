@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="" />
+    <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/BetterDbDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/Index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/MongoDbDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/MySqlDriver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-project/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-project/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/vendor/composer/installed.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -28,6 +41,9 @@
     </layout>
   </component>
   <component name="ProjectId" id="1uuGvxrsbT7eZyJD6nxMDhQ0KX3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,9 +52,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/namespace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -62,10 +78,36 @@
       <workItem from="1628837568188" duration="5639000" />
       <workItem from="1628870052030" duration="3533000" />
       <workItem from="1628961617256" duration="6436000" />
+      <workItem from="1629004156530" duration="4629000" />
+      <workItem from="1629009282025" duration="589000" />
+      <workItem from="1629009914062" duration="120000" />
+      <workItem from="1629010075452" duration="292000" />
+      <workItem from="1629010452812" duration="176000" />
+      <workItem from="1629010654615" duration="272000" />
+      <workItem from="1629010968411" duration="303000" />
+      <workItem from="1629011318469" duration="506000" />
+      <workItem from="1629011880740" duration="544000" />
+      <workItem from="1629012627802" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
