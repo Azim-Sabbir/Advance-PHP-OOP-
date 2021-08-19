@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/BetterDbDriver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/Index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/MongoDbDriver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface&amp;abstract/MySqlDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/Dependecy-try.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/app/http/controllers/CategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/app/http/controllers/SubCategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-project/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-project/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/vendor/composer/installed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +83,11 @@
       <workItem from="1629010968411" duration="303000" />
       <workItem from="1629011318469" duration="506000" />
       <workItem from="1629011880740" duration="544000" />
-      <workItem from="1629012627802" duration="975000" />
+      <workItem from="1629012627802" duration="12942000" />
+      <workItem from="1629089842896" duration="51000" />
+      <workItem from="1629129281965" duration="1278000" />
+      <workItem from="1629174575885" duration="595000" />
+      <workItem from="1629177111169" duration="1351000" />
     </task>
     <servers />
   </component>
