@@ -1,8 +1,7 @@
 <?php
-
 namespace App\controllers;
 
-class FirstController extends Controller
+class PageController
 {
     private $title, $content;
 
@@ -20,15 +19,5 @@ class FirstController extends Controller
     public function getContent()
     {
         return $this->content;
-    }
-//    public function formatPDF()
-//    {
-//        echo "<pdf>{$this->getTile()}</pdf>";
-//        echo PHP_EOL;
-//        echo "<pdf>{$this->getContent()}</pdf>";
-//    }
-    public function formatJSON()
-    {
-        echo json_encode($this->getTile());
     }
 }

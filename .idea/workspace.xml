@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dependency-injection/Dependecy-try.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-injection/app/http/controllers/CategoryController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-injection/app/http/controllers/SubCategoryController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-injection/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample-project/app/services/HtmlFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample-project/app/services/PdfFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-responsibility/app/controllers/PageController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-responsibility/app/services/HtmlFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-responsibility/app/services/PdfFromatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-responsibility/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-project/app/controllers/FirstController.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/app/controllers/FirstController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-project/vendor/squizlabs/php_codesniffer/tests/Core/Filters/Filter/AcceptTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project/vendor/squizlabs/php_codesniffer/tests/Core/Filters/Filter/AcceptTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +54,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sample-project/app/controllers" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\mastering php\sample-project\app\controllers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\mastering php\single-responsibility\src" />
       <recent name="D:\work\mastering php\sample-project\app\controllers" />
     </key>
   </component>
@@ -88,6 +98,8 @@
       <workItem from="1629129281965" duration="1278000" />
       <workItem from="1629174575885" duration="595000" />
       <workItem from="1629177111169" duration="1351000" />
+      <workItem from="1629396288584" duration="4755000" />
+      <workItem from="1629433444604" duration="870000" />
     </task>
     <servers />
   </component>

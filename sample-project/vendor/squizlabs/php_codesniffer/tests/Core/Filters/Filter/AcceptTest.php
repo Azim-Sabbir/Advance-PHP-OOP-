@@ -108,29 +108,29 @@ class AcceptTest extends TestCase
             // Test top-level exclude patterns.
             [
                 [
-                    '/path/to/src/Main.php',
-                    '/path/to/src/Something/Main.php',
-                    '/path/to/src/Somethingelse/Main.php',
-                    '/path/to/src/SomethingelseEvenLonger/Main.php',
-                    '/path/to/src/Other/Main.php',
+                    '/path/to/app/Main.php',
+                    '/path/to/app/Something/Main.php',
+                    '/path/to/app/Somethingelse/Main.php',
+                    '/path/to/app/SomethingelseEvenLonger/Main.php',
+                    '/path/to/app/Other/Main.php',
                 ],
                 [
-                    '/path/to/src/Main.php',
-                    '/path/to/src/SomethingelseEvenLonger/Main.php',
+                    '/path/to/app/Main.php',
+                    '/path/to/app/SomethingelseEvenLonger/Main.php',
                 ],
             ],
 
             // Test ignoring standard/sniff specific exclude patterns.
             [
                 [
-                    '/path/to/src/generic-project/Main.php',
-                    '/path/to/src/generic/Main.php',
-                    '/path/to/src/anything-generic/Main.php',
+                    '/path/to/app/generic-project/Main.php',
+                    '/path/to/app/generic/Main.php',
+                    '/path/to/app/anything-generic/Main.php',
                 ],
                 [
-                    '/path/to/src/generic-project/Main.php',
-                    '/path/to/src/generic/Main.php',
-                    '/path/to/src/anything-generic/Main.php',
+                    '/path/to/app/generic-project/Main.php',
+                    '/path/to/app/generic/Main.php',
+                    '/path/to/app/anything-generic/Main.php',
                 ],
             ],
         ];
