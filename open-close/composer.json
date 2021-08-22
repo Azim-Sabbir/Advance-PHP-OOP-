@@ -1,0 +1,12 @@
+{
+  "name": "openclose/azimsabbir",
+  "description": "open close principle",
+  "type": "project",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
