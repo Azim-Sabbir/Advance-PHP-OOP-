@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/src/Collection.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/liskov-substitution" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -103,6 +101,8 @@
       <workItem from="1629651600001" duration="1167000" />
       <workItem from="1630343267892" duration="671000" />
       <workItem from="1630422226494" duration="1205000" />
+      <workItem from="1630496514916" duration="307000" />
+      <workItem from="1630496903715" duration="60000" />
     </task>
     <servers />
   </component>
