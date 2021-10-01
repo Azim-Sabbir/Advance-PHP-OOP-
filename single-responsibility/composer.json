@@ -1,0 +1,12 @@
+{
+  "name": "project/azimsabbir",
+  "description": "just my project",
+  "type": "project",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

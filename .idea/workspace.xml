@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="" />
+    <list default="true" id="74d6fe4e-b4ac-4600-8510-63e4101ce91c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +14,12 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -28,6 +35,9 @@
     </layout>
   </component>
   <component name="ProjectId" id="1uuGvxrsbT7eZyJD6nxMDhQ0KX3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,13 +46,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/namespace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/liskov-substitution" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\mastering php\sample-project\app\controllers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\mastering php\single-responsibility\src" />
       <recent name="D:\work\mastering php\sample-project\app\controllers" />
     </key>
   </component>
@@ -62,10 +76,53 @@
       <workItem from="1628837568188" duration="5639000" />
       <workItem from="1628870052030" duration="3533000" />
       <workItem from="1628961617256" duration="6436000" />
+      <workItem from="1629004156530" duration="4629000" />
+      <workItem from="1629009282025" duration="589000" />
+      <workItem from="1629009914062" duration="120000" />
+      <workItem from="1629010075452" duration="292000" />
+      <workItem from="1629010452812" duration="176000" />
+      <workItem from="1629010654615" duration="272000" />
+      <workItem from="1629010968411" duration="303000" />
+      <workItem from="1629011318469" duration="506000" />
+      <workItem from="1629011880740" duration="544000" />
+      <workItem from="1629012627802" duration="12942000" />
+      <workItem from="1629089842896" duration="51000" />
+      <workItem from="1629129281965" duration="1278000" />
+      <workItem from="1629174575885" duration="595000" />
+      <workItem from="1629177111169" duration="1351000" />
+      <workItem from="1629396288584" duration="4755000" />
+      <workItem from="1629433444604" duration="6506000" />
+      <workItem from="1629491185386" duration="78000" />
+      <workItem from="1629520044064" duration="599000" />
+      <workItem from="1629573321514" duration="1574000" />
+      <workItem from="1629604824571" duration="150000" />
+      <workItem from="1629645297491" duration="2100000" />
+      <workItem from="1629648163803" duration="638000" />
+      <workItem from="1629651600001" duration="1167000" />
+      <workItem from="1630343267892" duration="671000" />
+      <workItem from="1630422226494" duration="1205000" />
+      <workItem from="1630496514916" duration="307000" />
+      <workItem from="1630496903715" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
